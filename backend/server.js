@@ -122,3 +122,5 @@ const start = async () => {
 };
 
 start();
+
+// Backend Authentication Setup (JWT)
